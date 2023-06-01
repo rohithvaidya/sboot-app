@@ -8,4 +8,7 @@ Setting Up Github Action here
 3) Two different OS is used
 <br></br>
 4) If Sequential job execution is required, add needs: <job_name>
+   <br></br>
+5) Spawning 4 separate jobs given as a matrix
+
 
