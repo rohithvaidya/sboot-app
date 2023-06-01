@@ -5,7 +5,7 @@ on:
     branches: [ "main", "rel-*" ]
 
 env:
-  NAME: Rohith Workflow
+  NAME: Rohith
 
 jobs:
 
