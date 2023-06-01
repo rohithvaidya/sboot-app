@@ -10,5 +10,8 @@ Setting Up Github Action here
 4) If Sequential job execution is required, add needs: <job_name>
    <br></br>
 5) Spawning 4 separate jobs given as a matrix
+ <br> </br>
+6) Can also add dynamic strategy where test job depends on the matrices produced by previous jobs
+
 
 
